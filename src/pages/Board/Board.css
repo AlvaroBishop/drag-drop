@@ -1,0 +1,7 @@
+.Board-wrapper{
+    display:flex;
+    justify-content:space-between;
+    flex-direction: row;
+    margin: 2rem;
+    flex-wrap: wrap;
+}
